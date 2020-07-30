@@ -113,9 +113,7 @@ Download Source for the HTML Developemnt
 -----------------------------------------
 -> go to "google"
 
--> type "naveen saggam"
-
--> go to "https://github.com/thenaveensaggam"
+-> Type "https://github.com/siddhardha-b"
 
 -> click on "HTML_Template"
 
